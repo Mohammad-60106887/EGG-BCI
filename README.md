@@ -1,2 +1,4 @@
-# EGG-BCI
-A Brain-Computer Interface (BCI) system that integrates a EGG headset with the Pepper Robot. This project uses AI and real-time brainwave data to enable hands-free robotic control, leveraging Google Cloud for scalable processing."
+### Welcome to DevOps Core Intro Project Repository ###
+**Projects are a customizable, flexible tool for planning and tracking your work.**
+To find out more, refer to GitHub documentation [about Projects]
+(https://docs.github.com/issues/planning-and-tracking-with-projects/learning-aboutprojects/about-projects).
